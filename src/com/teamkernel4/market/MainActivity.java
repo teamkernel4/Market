@@ -1,7 +1,8 @@
 package com.teamkernel4.market;
 
-import android.app.Activity;
 import android.os.Bundle;
+
+import com.teamkernel4.AncientActivity;
 
 /**
  * File : MainActivity.java
@@ -9,7 +10,7 @@ import android.os.Bundle;
  * USER : LDJ
  * DATA : 2015. 11. 4.
  */
-public class MainActivity extends Activity {
+public class MainActivity extends AncientActivity  {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
