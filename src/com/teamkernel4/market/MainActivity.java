@@ -7,7 +7,7 @@ import android.os.Bundle;
  * File : MainActivity.java
  * INFO : 기본 Activity
  * USER : LDJ
- * DATA : 2015. 11. 5.
+ * DATA : 2015. 11. 4.
  */
 public class MainActivity extends Activity {
 
